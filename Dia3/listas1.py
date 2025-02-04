@@ -114,6 +114,7 @@ while (booleano==True):
             print (f"{i+1}, {nombret}")
         numeroEstudiante=int(input("Cual numero de estudiante quieres eliminar?:"))
         nombres.pop(numeroEstudiante-1)
+        apellidos.pop(numeroEstudiante-1)
         for i in range(len(nombres)):
             nombret=" ".join(nombres[i])+" "+" ".join(apellidos[i])
             print (f"{i+1}, {nombret}")
