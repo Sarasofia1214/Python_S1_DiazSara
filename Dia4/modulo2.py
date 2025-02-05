@@ -83,28 +83,21 @@ while (booleano==True):
     opcionUsuario= int(input(":"))
   
     if (opcionUsuario==1):
-        print("Lista de estudiantes:")
-        for i in range(len(nombres)):
-            nombret=" ".join(nombres[i])+" "+" ".join(apellidos[i])
-            print (f"{i+1}, {nombret}")
+        n (nombres, apellidos)
         numeroEstudiante=int(input("Cual estudiante quieres editar?:"))
         nombreEstudiante=input("Cual será el nuevo nombre del estudiante?:")
         apellidoEstudiante=input("Cual será el nuevo apellido del estudiante?:")
-        print("Lista de estudiantes:")
+        
         ed(numeroEstudiante, nombres, nombreEstudiante, apellidos, apellidoEstudiante)
         
     elif (opcionUsuario==2):
-        for i in range(len(nombres)):
-            nombret=" ".join(nombres[i])+" "+" ".join(apellidos[i])
-            print (f"{i+1}, {nombret}")
+        n (nombres, apellidos)
         nombreN=input("Cual será el nombre nuevo del estudiante?:")
         apellidoN=input("Cual será el apellido nuevo del estudiante?:")
         ana(nombreN, apellidoN, nombres, apellidos)
 
     elif(opcionUsuario==3):
-        for i in range(len(nombres)):
-            nombret=" ".join(nombres[i])+" "+" ".join(apellidos[i])
-            print (f"{i+1}, {nombret}")
+        n (nombres, apellidos)
         numeroEstudiante=int(input("Cual numero de estudiante quieres eliminar?:"))
         delete (numeroEstudiante, nombres, apellidos)
 
