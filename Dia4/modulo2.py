@@ -1,3 +1,4 @@
+##//Ejercicio1.1_DiazSara
 from modulo1 import *
 nombres = [
     ["Adrián"],
@@ -113,4 +114,5 @@ while (booleano==True):
     elif opcionUsuario==5:
         booleano= False
         break
+## Sara Dìaz - T.I 1099741170
     
