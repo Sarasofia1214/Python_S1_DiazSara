@@ -1,7 +1,10 @@
-[
+{
+    "inmuebles": [
+
 {"año": 2000 , 
 "metros":1000 ,
-"habitaciones" :3, "garaje" : true ,
+"habitaciones" :3, 
+"garaje" : true ,
 "zona" : "A"},
 
 {"año": 2012 ,
@@ -27,3 +30,4 @@
 "garaje" : false , 
 "zona" : "A"}
 ]
+}

@@ -1,0 +1,35 @@
+{
+"informacion":[
+
+{"id:" :1,
+ "Nombre completo:": "Sara Diaz",
+ "Numero de telefono:": 317558435,
+ "Numero de correo:": "dasajo13@gmail.com",
+ "Etiqueta:": "Hija"},
+
+{
+    "id:" :2,
+ "Nombre completo:": "Pedro Rodriguez",
+ "Numero de telefono:": 317558435,
+ "Numero de correo:": "dpapa@gmail.com",
+ "Etiqueta:": "Padre"},
+
+ {"id:" :3,
+ "Nombre completo:": "Smith Gomez",
+ "Numero de telefono:": 317558435,
+ "Numero de correo:": "super@gmail.com",
+ "Etiqueta:": "Hermana"},
+
+ {"id:" :4,
+ "Nombre completo:": "Paco Lopez",
+ "Numero de telefono:": 317558435,
+ "Numero de correo:": "change@gmail.com",
+ "Etiqueta:": "Esposo"},
+{
+ "id:" :5,
+ "Nombre completo:": "Camilo Perez",
+ "Numero de telefono:": 317558435,
+ "Numero de correo:": "trust@gmail.com",
+ "Etiqueta:": ""}
+]
+}

@@ -1,0 +1,62 @@
+{
+    "informacion":[
+    
+    {"id:" :1,
+    "Fecha del pedido:": "3/04/23",
+    "Hora del pedido:": "01:04",
+    "Estado dle pedido:": "pendiente",
+    "clientes ":{
+        "Nombre del cliente": "Sofia",
+        "Numero de contacto:": 3424567865,
+        "Direccion entrega:": "",
+    "porducto":{
+    "Nombre del producto:": "papeles",   
+    "Cantidad solicitada:": 4,
+    "precio unitario": 50000,
+    "Subtotal por producto:": 200000}}},
+
+    {"id:" :2,
+    "Fecha del pedido:": "20/10/23",
+    "Hora del pedido:": "05:23",
+    "Estado dle pedido:": "pendiente",
+    "clientes ":{
+        "Nombre del cliente": "Carlos",
+        "Numero de contacto:": 3424567865,
+        "Direccion entrega:": "",
+    "porducto":{
+    "Nombre del producto:": "portas",   
+    "Cantidad solicitada:": 4,
+    "precio unitario": 50000,
+    "Subtotal por producto:": 200000}}},
+
+    {"id:" :1,
+    "Fecha del pedido:": "3/04/23",
+    "Hora del pedido:": "01:04",
+    "Estado dle pedido:": "pendiente",
+    "clientes ":{
+        "Nombre del cliente": "Sofia",
+        "Numero de contacto:": 3424567865,
+        "Direccion entrega:": "",
+    "porducto":{
+    "Nombre del producto:": "papeles",   
+    "Cantidad solicitada:": 4,
+    "precio unitario": 50000,
+    "Subtotal por producto:": 200000}}},
+
+    {"id:" :1,
+    "Fecha del pedido:": "3/04/23",
+    "Hora del pedido:": "01:04",
+    "Estado dle pedido:": "pendiente",
+    "clientes ":{
+        "Nombre del cliente": "Sofia",
+        "Numero de contacto:": 3424567865,
+        "Direccion entrega:": "",
+    "porducto":{
+    "Nombre del producto:": "papeles",   
+    "Cantidad solicitada:": 4,
+    "precio unitario": 50000,
+    "Subtotal por producto:": 200000}}}
+
+    ]
+    }
+    
