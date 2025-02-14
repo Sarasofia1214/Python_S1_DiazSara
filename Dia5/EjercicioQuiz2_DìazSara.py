@@ -68,3 +68,65 @@ while(booleanito==True):
         print("Precio:",inmuebleNuevo["precio"])
         inmuebles["inmuebles"].append(inmuebleNuevo)
         guardarJSON(inmuebles)
+
+
+
+
+
+
+
+
+Modulo.py
+
+import json
+def abrirJSON():
+    dicFinal={}
+    with open('./1.json','r') as openFile:
+        dicFinal=json.load(openFile)
+    return dicFinal
+
+def guardarJSON(dic):
+    with open("./1.json",'w') as outFile:
+        json.dump(dic,outFile)
+
+def funcionprecios():
+    inmuebles={}
+    inmuebles=abrirJSON()
+    print("lista antes")
+
+    for i in range(len(inmuebles["inmuebles"])):
+        print("Vivienda", i+1)
+        print("zona",inmuebles["inmuebles"][i]["zona"])
+        print("Año de construcciòn",inmuebles["inmuebles"][i]["zona"])
+        print("tamaño",inmuebles ["inmuebles"][i]["metros"] )
+        print("habitaciones:", inmuebles ["inmuebles"][i]["habitaciones"])
+        if(inmuebles["inmuebles"][i]["garaje"]==True):
+            garaje=1
+            print("garaje: disponible")
+        else:
+            garaje=0
+            print("garaje: no dsponible")
+        if (inmuebles["inmuebles"][i]["zona"]=="A"):
+            prefA=((inmuebles["inmuebles"][i]["metros"])*1000 + (inmuebles["inmuebles"][i]["habitaciones"]*5000 + ((inmuebles["inmuebles"][i]["garaje"]*15000)(inmuebles["inmuebles"][i]["año"]/100))))
+            inmuebles["inmuebles"][i]["precio"]=prefA
+        elif (inmuebles["inmuebles"][i]["zona"]=="B"):
+            prefB=((inmuebles["inmuebles"][i]["metros"])*1000 + (inmuebles["inmuebles"][i]["habitaciones"]*5000 + ((inmuebles["inmuebles"][i]["garaje"]*15000)(inmuebles["inmuebles"][i]["año"]/100)))*1.5)
+            inmuebles["inmuebles"][i]["precio"]=prefB
+
+    print("Inmuebles ahora")
+    for i in range(len[inmuebles]):
+        print("Vivienda",i+1)
+        print("zona:",inmuebles["inmuebles"][i]["zona"])
+        print("año:",inmuebles["inmuebles"][i]["año"])
+        print("año:",inmuebles["inmuebles"][i]["metros"])
+        print("año:",inmuebles["inmuebles"][i]["habitaciones"])
+        if(inmuebles["inmuebles"][i]["garaje"]==True):
+            garaje=1
+            print("garaje: disponible")
+        else:
+            garaje=0
+            print("garaje: no dsponible")
+
+    print("Precio:",inmuebles["inmuebles"][i]["precio"])
+    guardarJSON(inmuebles)
+    return inmuebles
