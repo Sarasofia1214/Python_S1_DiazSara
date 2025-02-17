@@ -18,7 +18,6 @@ sudo apt install app
 ```
 
 ### Como se juega 
-![imagen gato](./gato.png)
 
 ### Sección 
 - Ítem 1
