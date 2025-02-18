@@ -15,9 +15,9 @@ En este repositorio se encuentran carpetas con varios ejercicios sobre Pytohn re
 Ingresa a Visual Code y podras poner a correr el codigo usando la extensión de Python.
 
 ### Explicación
->Dia 1: Ralizamos los jercicios hechos previamente en PSeInt pro adaptandolos a la sintaxis de Python.
+>Dia 1: Ralizamos los ejercicios hechos previamente en PSeInt adaptandolos a la sintaxis de Python.
 
->En el ejercicio de calculadora se pueden realizar las operaciones matematicas basicas.
+>En el ejercicio de calculadora se pueden realizar las operaciones matematicas basicas tales como suma, resta, multiplicacion y division de dos numeros.
 
 >En el primero se realizo un programa que muestr los números divisibles de 3 y 7 entre 1 y 1000.
 
@@ -35,12 +35,12 @@ y el menor de todos estos números.
 
 >Dia 2: Se realizan mas ejerccicios sobre Python
 En listas 1 es un programa capaz de realizar una conversion de Celsius to Fahrenheit o viceversa.
-En listas 2 un programa que calcula el interes simple y compuesto segun los datos ingresados.
-En listas 3 es un programa capaz de identificar si el numero ideantificado es par o impar, primo o compuesto y cuadrado perfecto.
+En listas 2 es un programa que calcula el interes simple y compuesto segun los datos ingresados por el usuario.
+En listas 3 es un programa capaz de identificar si el numero ingresado es par o impar, primo o compuesto y cuadrado perfecto.
 
->Dia 3: Se realizo un ejercicio sobre el manjo  las listas en Pytohn con la lista  los estudiantes de campuslands, usando CRUD.
+>Dia 3: Se realizo un ejercicio sobre el manejo de las listas en Pytohn con la lista de estudiantes de campuslands, usando un menu CRUD(Crear, Leer, Actualizar y Eliminar).
 
->Dia 4: Se realiza con el mismo ejercicio de listas pero usando unicamente funciones.
+>Dia 4: Se realiza con el mismo ejercicio de listas pero usando unicamente funciones. En este dia 
 
 >Dia 5: Se realiza un programa sobre inmuebles con menu CRUD, uso de JSON y persistencia en este.
 
