@@ -15,7 +15,7 @@ En este repositorio se encuentran carpetas con varios ejercicios sobre Pytohn re
 Ingresa a Visual Code y podras poner a correr el codigo usando la extensión de Python.
 
 ### Explicación
->Dia 1: Ralizamos los ejercicios hechos previamente en PSeInt adaptandolos a la sintaxis de Python.
+**>Dia 1:**Realizamos los ejercicios hechos previamente en PSeInt adaptandolos a la sintaxis de Python.
 
 >En el ejercicio de calculadora se pueden realizar las operaciones matematicas basicas tales como suma, resta, multiplicacion y division de dos numeros.
 
