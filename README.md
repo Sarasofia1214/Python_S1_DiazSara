@@ -1,14 +1,15 @@
-# Título
-Esta de una decripción
+# jrcicios Python
+En este repositorio se encuentran carpetas con varios ejercicios sobre Pytohn realizados durante las clases.
 
 ## Tabla de contenidos
 | Indice | Titulo  |
 |--|--|
-| 1 | Sección 1 |
-| 2 | Sección 2 |
-| 3 | Sección 3 |
-| 4 | Sección 4 |
-| 5 | Sección 5 |
+| Dia 1 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia1 |
+| Dia 2 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia2 |
+| Dia 3 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia3 |
+| Dia 4 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia4 | 
+| Dia 5 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia5 |
+| Dia 5 |  https://github.com/Sarasofia1214/Python_S1_DiazSara/tree/master/Dia6 |
 
 ### Instalaciones 
 Deberas ejecutar este comando para descargar 
