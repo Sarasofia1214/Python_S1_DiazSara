@@ -29,20 +29,27 @@ cero, que satisfacen la siguiente expresión:  P**3+Q **4(-2)P**2 < 680.
 
 >En el cuarto ejercicio lee 10 números ingresados por el usuario y que al final, muestre el mayor
 y el menor de todos estos números.
->En el quinto eejercicio se evidencia un codigo capaz de ayudar a encontrar el próximo número de la siguiente serie.1,1,2,-1,1,-2,?
->En el sexto es sobre La empresa ACME desea calcular el valor de la nómina de N empleados con las especificaciones dadas por el enunciado.
->En el septimo es motrar si dos números enteros positivos n1 y n2 son amigos.
 
->Dia 2: Se realizan mas ejerccicios sobre Python
+>En el quinto ejercicio se evidencia un codigo capaz de ayudar a encontrar el próximo número de la siguiente serie.1,1,2,-1,1,-2,?
+
+>En el sexto es sobre La empresa ACME desea calcular el valor de la nómina de N empleados y estos son ingresados por el usuario, tanto el sueldo bruto como el sueldo neto.
+El sueldo bruto se calcula a partir del valor de la hora y la cantidad de horas trabajadas. A esto se le descuenta el valor de la EPS que esel 4%, el valor de la Pensión que
+es el 4%. El sueldo neto es el sueldo bruto menos los descuentos. Por cada empleado se quiere mostrar, el valor del sueldo bruto, cada uno de los descuentos y el valor del
+sueldo Neto. Para este ejercicio el valor de la hora es $20.000.
+Al final se debe mostrar una estadística con los totales de los salarios brutos, EPS, Pensión y salarios netos. Luego mostrar el empleado que más gana en salario neto (nombre y salario neto), el empleado que menos gana en salario neto (nombre y salario neto) y los promedios de sueldos brutos y sueldos netos.
+
+>En el septimo es mostrar si dos números enteros positivos n1 y n2 son amigos. Los números amigos son pares de números enteros positivos en los cuales la suma de los divisores propios de cada número es igual al otro número.
+
+>Dia 2: Se realizan mas ejercicios sobre Python
 En listas 1 es un programa capaz de realizar una conversion de Celsius to Fahrenheit o viceversa.
 En listas 2 es un programa que calcula el interes simple y compuesto segun los datos ingresados por el usuario.
 En listas 3 es un programa capaz de identificar si el numero ingresado es par o impar, primo o compuesto y cuadrado perfecto.
 
 >Dia 3: Se realizo un ejercicio sobre el manejo de las listas en Pytohn con la lista de estudiantes de campuslands, usando un menu CRUD(Crear, Leer, Actualizar y Eliminar).
 
->Dia 4: Se realiza con el mismo ejercicio de listas pero usando unicamente funciones. En este dia 
+>Dia 4: Se realiza con el mismo ejercicio de listas pero usando unicamente funciones. En este dia hay dos archivos, en modulos1 estan todos los modulos usados en modulos2 para un funcionaminto mas eficiente.
 
->Dia 5: Se realiza un programa sobre inmuebles con menu CRUD, uso de JSON y persistencia en este.
+>Dia 5: Se realiza un programa sobre inmuebles con menu CRUD, uso de JSON y persistencia en este, con las siguientes indicaciones
 
 >Dia 6: Se evidencia el uso de JSON y CRUDS en ejercicios pedidos a chat gpt para estudiar y practicar estos mismos temas.
 
