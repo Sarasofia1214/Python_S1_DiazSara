@@ -33,6 +33,15 @@ En listas 1 es un programa capaz de realizar una conversion de Celsius to Fahren
 En listas 2 un programa que calcula el interes simple y compuesto segun los datos ingresados.
 En listas 3 es un programa capaz de identificar si el numero ideantificado es par o impar, primo o compuesto y cuadrado perfecto.
 
+-Dia 3: Se realizo un ejercicio sobre el manjo  las listas en Pytohn con la lista  los estudiantes de campuslands, usando CRUD.
+
+-Dia 4: Se realiza con el mismo ejercicio de listas pero usando unicamente funciones.
+
+-Dia 5: Se realiza un programa sobre inmuebles con menu CRUD, uso de JSON y persistencia en este.
+
+-Dia 6: Se evidencia el uso de JSON y CRUDS en ejercicios pedidos a chat gpt para estudiar y practicar.
+
+
 Hecho por [SaraDiaz](https://github.com/Sarasofia1214)
 
 >Este texto será una cita.
