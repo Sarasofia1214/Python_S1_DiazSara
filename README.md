@@ -16,13 +16,18 @@ Ingresa a Visual Code y podras poner a correr el codigo usando la extensión de 
 
 ### Explicación
 >Dia 1: Ralizamos los jercicios hechos previamente en PSeInt pro adaptandolos a la sintaxis de Python.
+
 >En el ejercicio de calculadora se pueden realizar las operaciones matematicas basicas.
+
 >En el primero se realizo un programa que muestr los números divisibles de 3 y 7 entre 1 y 1000.
+
 >En el seguno ejercicio es un programa tal que lea un número entero N, muestre la cantidad de términos y el resultado
 de la siguiente serie: 1- 1/2+ 1/3 -1/4+ ...± 1/N
+
 >En el tercer ejercicio es sobre un programa tal que encuentre y muestre todos los enteros positivos, comenzando desde el
 cero, que satisfacen la siguiente expresión:  P**3+Q **4(-2)P**2 < 680.
-En el cuarto ejercicio lee 10 números ingresados por el usuario y que al final, muestre el mayor
+
+>En el cuarto ejercicio lee 10 números ingresados por el usuario y que al final, muestre el mayor
 y el menor de todos estos números.
 >En el quinto eejercicio se evidencia un codigo capaz de ayudar a encontrar el próximo número de la siguiente serie.1,1,2,-1,1,-2,?
 >En el sexto es sobre La empresa ACME desea calcular el valor de la nómina de N empleados con las especificaciones dadas por el enunciado.
